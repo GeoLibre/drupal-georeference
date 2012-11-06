@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Field Observation feature.
+ */
+
+include_once 'field_observation.features.inc';
